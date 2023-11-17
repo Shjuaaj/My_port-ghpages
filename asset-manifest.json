@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/My_port-ghpages/static/css/main.8ae416a5.css",
+    "main.js": "/My_port-ghpages/static/js/main.3a4b1746.js",
+    "static/js/415.4d6acbeb.chunk.js": "/My_port-ghpages/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/My_port-ghpages/static/js/787.1ed0c42c.chunk.js",
+    "static/media/drumKit.jpg": "/My_port-ghpages/static/media/drumKit.564de027eb343daddcbb.jpg",
+    "static/media/weather_app.jpg": "/My_port-ghpages/static/media/weather_app.c766815949f7ee871556.jpg",
+    "static/media/CuurencyConv.png": "/My_port-ghpages/static/media/CuurencyConv.4c84e1eeab8cdbb0c11b.png",
+    "static/media/QuizGame.jpg": "/My_port-ghpages/static/media/QuizGame.37229e8ae22674eb0394.jpg",
+    "static/media/toDoList.jpg": "/My_port-ghpages/static/media/toDoList.f7d76674df509f2d5f12.jpg",
+    "static/media/Shivamresume3.pdf": "/My_port-ghpages/static/media/Shivamresume3.ee3dbd08f7332c609b27.pdf",
+    "static/media/home-main.svg": "/My_port-ghpages/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/logo.png": "/My_port-ghpages/static/media/logo.d98373984e34c6b80287.png",
+    "static/media/about.png": "/My_port-ghpages/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/My_port-ghpages/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/My_port-ghpages/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/My_port-ghpages/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/My_port-ghpages/index.html",
+    "main.8ae416a5.css.map": "/My_port-ghpages/static/css/main.8ae416a5.css.map",
+    "main.3a4b1746.js.map": "/My_port-ghpages/static/js/main.3a4b1746.js.map",
+    "415.4d6acbeb.chunk.js.map": "/My_port-ghpages/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/My_port-ghpages/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ae416a5.css",
+    "static/js/main.3a4b1746.js"
+  ]
+}
